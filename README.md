@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am Akshata Jog.
+
+Aspiring Fronend Developer, skilled in HTML, CSS, and JavaScript, constantly learning new frameworks and tools to stay ahead.
+I mainly focus on building responsive, interactive interfaces that enhance user experience and functionality.
+
 <!--
 **akshatasProjects/akshatasProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
